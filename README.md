@@ -30,6 +30,21 @@
 
 
 
+## Conversational diagnosis
+
+| Title                                                                                                               | Published Year | Journal             | Task                 | Input Data Modality | LLM Technique Type |
+|---------------------------------------------------------------------------------------------------------------------|----------------|---------------------|----------------------|---------------------|--------------------|
+| Heterogeneous Knowledge Grounding for Medical Question Answering with Retrieval Augmented Large Language Model     | 2024           | WWW                 | Text-based Med QA    | Text                | RAG (database)     |
+| Development of a Liver Disease-Specific Large Language Model Chat Interface using Retrieval Augmented Generation    | 2024           | Hepatology          | Text-based Med QA    | Text                | RAG (corpus)       |
+| GPT-agents based on medical guidelines can improve the responsiveness and explainability of outcomes for traumatic brain injury rehabilitation | 2024           | Scientific Reports  | Text-based Med QA    | Text                | RAG (corpus)       |
+| Mindmap: Knowledge graph prompting sparks graph of thoughts in large language models                                | 2023           | arXiv               | Text-based Med QA    | Text                | RAG (knowledge graph) |
+| Improving accuracy of GPT-3/4 results on biomedical data using a retrieval-augmented language model                 | 2023           | arXiv               | Text-based QA        | Text                | RAG (database)     |
+| Development of a Liver Disease-Specific Large Language Model Chat Interface using Retrieval Augmented Generation    | 2023           | Hepatology          | Text-based QA        | Text                | RAG (corpus)       |
+| A Context-based Chatbot Surpasses Trained Radiologists and Generic ChatGPT in Following the ACR Appropriateness Guidelines | 2023           | Radiology           | Text-based Med QA    | Text                | RAG (database)     |
+
+
+
+
 
 
 # Pre-training
