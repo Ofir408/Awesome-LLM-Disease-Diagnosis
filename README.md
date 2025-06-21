@@ -3,6 +3,35 @@
 
 
 
+# RAG
+
+
+## Disease diagnosis
+
+
+| Title                                                                                                                 | Published Year | Journal                                 | Task                     | Input Data Modality               | LLM Technique Type                            |
+|-----------------------------------------------------------------------------------------------------------------------|----------------|-----------------------------------------|--------------------------|------------------------------------|-----------------------------------------------|
+| Optimization of hepatological clinical guidelines interpretation by large language models: a retrieval augmented generation-based framework | 2024           | npj Digital Medicine                   | Disease diagnosis        | Text                               | RAG (corpus)                                  |
+| Explanatory argumentation in natural language for correct and incorrect medical diagnoses                             | 2024           | Journal of Biomedical Semantics        | Disease diagnosis        | Text, Image                        | RAG (database)                                |
+| ECG Semantic Integrator (ESI): A Foundation ECG Model Pretrained with LLM-Enhanced Cardiological Text                 | 2024           | arXiv                                  | Disease diagnosis        | Time series, Text                  | RAG (corpus)                                  |
+| Beyond Direct Diagnosis: LLM-based Multi-Specialist Agent Consultation for Automatic Diagnosis                        | 2024           | arXiv                                  | Disease diagnosis        | Text                               | RAG (database)                                |
+| Diagnosis Assistant for Liver Cancer Utilizing a Large Language Model with Three Types of Knowledge                   | 2024           | arXiv                                  | Disease diagnosis        | Image, Text                        | RAG (database), Prompt (CoT)                 |
+| Guiding clinical reasoning with large language models via knowledge seeds                                             | 2024           | arXiv                                  | Disease diagnosis        | Text                               | RAG (knowledge graph)                         |
+| Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction                            | 2024           | arXiv                                  | Disease diagnosis        | Time series, Text                  | RAG (database)                                |
+| Dermacen Analytica: A Novel Methodology Integrating Multi-Modal Large Language Models with Machine Learning in tele-dermatology | 2024           | arXiv                                  | Disease diagnosis        | Image, Text                        | RAG (database)                                |
+| Autonomous artificial intelligence agents for clinical decision making in oncology                                   | 2024           | arXiv                                  | Disease diagnosis        | Text                               | RAG (database)                                |
+| medIKAL: Integrating Knowledge Graphs as Assistants of LLMs for Enhanced Clinical Diagnosis on EMRs                   | 2024           | arXiv                                  | Disease diagnosis        | Graph, Text                        | RAG (knowledge graph)                         |
+| A 360º View for Large Language Models: Early Detection of Amblyopia in Children using Multi-View Eye Movement Recordings. | 2024           | Artificial Intelligence in Medicine    | Disease diagnosis        | Image                              | RAG (corpus), Prompt (few-shot)              |
+| Empowering PET Imaging Reporting with Retrieval-Augmented Large Language Models and Reading Reports Database: A Pilot Single Center Study | 2024           | medRxiv                                | Disease diagnosis        | Text                               | RAG (database)                                |
+| EMERGE: Integrating RAG for Improved Multimodal EHR Predictive Modeling                                               | 2024           | arXiv                                  | Disease diagnosis        | Text, Time series, Graph           | RAG (corpus), RAG (knowledge graph)          |
+| Large Language Models and Medical Knowledge Grounding for Diagnosis Prediction                                        | 2023           | medRxiv                                | Differential diagnosis    | Text, Graph                        | RAG (knowledge graph)                         |
+| Generative Large Language Models are autonomous practitioners of evidence-based medicine                              | 2024           | arXiv                                  | Disease diagnosis        | Text                               | RAG (corpus)                                  |
+| Enhancing Large Language Models for Clinical Decision Support by Incorporating Clinical Practice Guidelines           | 2024           | arXiv                                  | Disease diagnosis        | Text                               | RAG (corpus)                                  |
+
+
+
+
+
 # Pre-training
 
 
