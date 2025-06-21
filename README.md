@@ -32,6 +32,13 @@
 | Biomistral: A collection of open-source pretrained large language models for medical domains | 2024           | arXiv   | Text-based Med QA | Text                | Pre-training, Fine-tune (supervised FT) |
 
 
+## Risk prediction
+
+| Title                                                                                                      | Published Year | Journal | Task                                      | Input Data Modality       | LLM Technique Type                     |
+|------------------------------------------------------------------------------------------------------------|----------------|---------|------------------------------------------|----------------------------|----------------------------------------|
+| Large Language Multimodal Models for New-Onset Type 2 Diabetes Prediction using Five-Year Cohort Electronic Health Records | 2024           | arXiv   | Chronic Disease Prediction              | Text, Tabular              | Pre-training                           |
+| From Supervised to Generative: A Novel Paradigm for Tabular Deep Learning with Large Language Models      | 2024           | KDD     | Disease Classification, Risk Prediction | Tabular                   | Fine-tune (supervised FT), Pre-training |
+| Large Language Multimodal Models for 5-Year Chronic Disease Cohort Prediction Using EHR Data              | 2024           | arXiv   | Risk Prediction                         | Text, Tabular              | Pre-training                           |
 
 
 
