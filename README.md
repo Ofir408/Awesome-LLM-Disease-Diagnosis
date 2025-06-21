@@ -7,7 +7,7 @@ This repository contains code for the paper "[Large language models for disease 
 
 ![Figure: Overview of the investigated scope](Fig_1_scope.jpg)
 
-
+![Figure: Future direction](Fig_future_direction.jpg)
 
 
 # RAG
