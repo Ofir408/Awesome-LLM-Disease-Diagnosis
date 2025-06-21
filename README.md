@@ -136,6 +136,14 @@
 
 
 
+## Mental health disorder detection
+
+| Title                                                                                                   | Published Year | Journal                                       | Task                        | Input Data Modality | LLM Technique Type                               |
+|---------------------------------------------------------------------------------------------------------|----------------|-----------------------------------------------|-----------------------------|---------------------|--------------------------------------------------|
+| MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models            | 2024           | WWW                                           | Depression Detection        | Text                | Prompt (few-shot), Fine-tune (supervised FT)    |
+| Spontaneous Speech-Based Suicide Risk Detection Using Whisper and Large Language Models                | 2024           | Interspeech                                   | Suicide Risk Detection       | Audio, Text         | Fine-tune (supervised FT)                       |
+| Mental-LLM: Leveraging Large Language Models for Mental Health Prediction via Online Text Data         | 2024           | arXiv                                         | Mental Health Prediction    | Text                | Fine-tune (supervised FT), Prompt (zero-shot), Prompt (few-shot) |
+| Explainable Depression Symptom Detection in Social Media                                               | 2023           | Health Information Science and Systems       | Depression Detection        | Text                | Fine-tune (supervised FT), Prompt (few-shot)    |
 
 
 
