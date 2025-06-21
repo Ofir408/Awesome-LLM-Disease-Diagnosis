@@ -3,6 +3,9 @@
 
 
 
+
+
+
 # RAG
 
 
@@ -42,6 +45,57 @@
 | Development of a Liver Disease-Specific Large Language Model Chat Interface using Retrieval Augmented Generation    | 2023           | Hepatology          | Text-based QA        | Text                | RAG (corpus)       |
 | A Context-based Chatbot Surpasses Trained Radiologists and Generic ChatGPT in Following the ACR Appropriateness Guidelines | 2023           | Radiology           | Text-based Med QA    | Text                | RAG (database)     |
 
+
+
+# Fine-tuning
+
+## Disease diagnosis
+
+| Title                                                                                                       | Published Year | Journal                                   | Task                            | Input Data Modality            | LLM Technique Type                       |
+|-------------------------------------------------------------------------------------------------------------|----------------|-------------------------------------------|---------------------------------|---------------------------------|------------------------------------------|
+| Large language model for providing patient-focused guidance following radical prostatectomy                | 2024           | Urologic Oncology                         | Disease diagnosis              | Text                            | Fine-tune (supervised FT)               |
+| PneumoLLM: Harnessing the power of large language model for pneumoconiosis diagnosis                       | 2024           | Medical Image Analysis                    | Disease diagnosis              | Image                           | Fine-tune (supervised FT)               |
+| Knowledge-enhanced visual-language pre-training on chest radiology images                                 | 2023           | Nature Communications                     | Disease diagnosis              | Image, Text                    | Fine-tune (supervised FT)               |
+| From Classification to Clinical Insights: Towards Analyzing and Reasoning About Mobile and Behavioral Health Data With Large Language Models | 2023           | arXiv                                     | Multi-modal disease diagnosis  | Time series                    | Fine-tune (supervised FT), Prompt (CoT) |
+| Enhancing automatic placenta analysis through distributional feature recomposition in vision-language contrastive learning | 2023           | MICCAI                                   | Multi-modal disease diagnosis  | Image, Text                    | Fine-tune (supervised FT)               |
+| Evaluating the efficacy of supervised learning vs large language models for identifying cognitive distortions and suicidal risks in chinese social media | 2023           | arXiv                                     | Disease diagnosis              | Text                            | Fine-tune (supervised FT)               |
+| Distilling the Knowledge from Large-language Model for Health Event Prediction                            | 2024           | medRxiv                                   | Disease diagnosis              | Text                            | Fine-tune (supervised FT)               |
+| Development and Testing of a Novel Large Language Model-Based Clinical Decision Support Systems for Medication Safety in 12 Clinical Specialties | 2024           | arXiv                                     | Disease diagnosis              | Text                            | Fine-tune (supervised FT)               |
+| Evaluating machine learning approaches for multi-label classification of unstructured electronic health records with a generative large language model | 2024           | medRxiv                                   | Disease diagnosis              | Text                            | Fine-tune (supervised FT)               |
+| MEDFuse: Multimodal EHR Data Fusion with Masked Lab-Test Modeling and Large Language Models                | 2024           | arXiv                                     | Disease diagnosis              | Text, Tabular                  | Fine-tune (supervised FT)               |
+| Towards conversational diagnostic AI                                                                      | 2024           | NEJM-AI                                   | Disease diagnosis              | Text                            | Fine-tune (supervised FT)               |
+| Navigating Complexity: Enhancing Pediatric Diagnostics With Large Language Models                         | 2024           | Pediatric Critical Care Medicine          | Disease diagnosis              | Text                            | Fine-tune (supervised FT)               |
+| Reasoning Like a Doctor: Improving Medical Dialogue Systems via Diagnostic Reasoning Process Alignment     | 2024           | ACL 2024 Findings                         | Disease diagnosis              | Text                            | Fine-tune (supervised FT)               |
+| Integrating Physician Diagnostic Logic into Large Language Models: Preference Learning from Process Feedback | 2024           | ACL 2024 Findings                         | Disease diagnosis              | Text                            | Fine-tune (supervised FT), Fine-tune (RLHF) |
+| Ophglm: Training an ophthalmology large language-and-vision assistant based on instructions and dialogue  | 2023           | arXiv                                     | Disease diagnosis              | Text, Image                    | Fine-tune (supervised FT)               |
+| ClinicalGPT: large language models finetuned with diverse medical data and comprehensive evaluation        | 2023           | arXiv                                     | Disease diagnosis              | Text                            | Fine-tune (supervised FT), Fine-tune (RLHF) |
+| EyeGPT: Ophthalmic Assistant with Large Language Models                                                   | 2024           | arXiv                                     | Domain-specific general model  | Text                            | Fine-tune (supervised FT)               |
+| LLMs for Doctors: Leveraging Medical LLMs to Assist Doctors, Not Replace Them                             | 2024           | arXiv                                     | Disease diagnosis              | Text                            | Fine-tune (supervised FT)               |
+| Advancing multimodal medical capabilities of Gemini                                                      | 2024           | arXiv                                     | Domain-specific general model  | Image, Omics, Text             | Fine-tune (supervised FT)               |
+| Qilin-med: Multi-stage knowledge injection advanced medical large language model                          | 2023           | arXiv                                     | Domain-specific general model  | Text                            | Fine-tune (RLHF)                        |
+| Moelora: An moe-based parameter efficient fine-tuning method for multi-task medical applications          | 2023           | arXiv                                     | Domain-specific general model  | Text                            | Fine-tune (supervised FT)               |
+| MiniGPT-Med: Large Language Model as a General Interface for Radiology Diagnosis                         | 2024           | arXiv                                     | Disease diagnosis              | Image, Text                    | Fine-tune (supervised FT)               |
+| MedDr: Diagnosis-Guided Bootstrapping for Large-Scale Medical Vision-Language Learning                    | 2024           | arXiv                                     | Disease diagnosis              | Image, Text                    | Fine-tune (supervised FT)               |
+| Pre-trained multimodal large language model enhances dermatological diagnosis using SkinGPT-4            | 2024           | Nature Communications                     | Multi-modal disease diagnosis  | Image, Text                    | Fine-tune (supervised FT)               |
+| Enhancing Human-Computer Interaction in Chest X-ray Analysis using Vision and Language Model with Eye Gaze Patterns | 2024           | arXiv                                     | Differential Diagnosis         | Image, Text                    | Fine-tune (supervised FT)               |
+| A Multimodal Generative AI Copilot for Human Pathology                                                   | 2024           | Nature                                    | Disease diagnosis              | Text, Image                    | Fine-tune (supervised FT)               |
+| SkinGPT-4: an interactive dermatology diagnostic system with visual large language model                 | 2023           | arXiv                                     | Disease diagnosis              | Image, Text                    | Fine-tune (supervised FT)               |
+| Cxr-llava: Multimodal large language model for interpreting chest x-ray images                           | 2023           | arXiv                                     | Disease diagnosis              | Image, Text                    | Fine-tune (supervised FT)               |
+| Skin disease diagnosis using deep neural network and large language model                               | 2023           | International Conference on AI in Medicine | Disease diagnosis             | Image, Text                    | Fine-tune (supervised FT)               |
+| DictLLM: Harnessing Key-Value Data Structures with Large Language Models for Enhanced Medical Diagnostics | 2024           | arXiv                                     | Disease diagnosis              | Text, Tabular                  | Fine-tune (supervised FT)               |
+| EyeFound: A Multimodal Generalist Foundation Model for Ophthalmic Imaging                               | 2024           | arXiv                                     | Disease diagnosis              | Text, Image                    | Prompt (zero-shot), Fine-tune (supervised FT), Fine-tune (parameter efficient FT) |
+| Zero-shot ECG diagnosis with large language models and retrieval-augmented generation                   | 2023           | Machine Learning for Health (ML4H)        | Disease diagnosis             | Time series                    | RAG (database), Prompt (CoT), Fine-tune (supervised FT) |
+| Human-AI collectives produce the most accurate differential diagnoses                                   | 2024           | arXiv                                     | Disease diagnosis              | Text                            | Fine-tune (supervised FT)               |
+| When LLMs meets acoustic landmarks: An efficient approach to integrate speech into large language models for depression detection | 2024           | arXiv                                     | Disease diagnosis              | Audio, Text                    | Fine-tune (supervised FT)               |
+| Learning the natural history of human disease with generative transformers                              | 2024           | medRxiv                                   | Disease diagnosis              | Text                            | Fine-tune (supervised FT)               |
+| AI-Generated Content Enhanced Computer-Aided Diagnosis Model for Thyroid Nodules: A ChatGPT-Style Assistant | 2024           | arXiv                                     | Disease diagnosis              | Text, Image                    | Fine-tune (supervised FT)               |
+| Merlin: A Vision Language Foundation Model for 3D Computed Tomography                                   | 2024           | Res Sq                                    | Disease diagnosis              | Tabular, Image, Text           | Fine-tune (supervised FT)               |
+| RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models                          | 2024           | arXiv                                     | Disease diagnosis              | Text, Image                    | RAG (corpus), Fine-tune (RLHF)          |
+| Supervised Learning and Large Language Model Benchmarks on Mental Health Datasets: Cognitive Distortions and Suicidal Risks in Chinese Social Media | 2024           | arXiv                                     | Disease diagnosis              | Text                            | Prompt (zero-shot), Prompt (few-shot), Fine-tune (supervised FT) |
+| ChatASD: LLM-Based AI Therapist for ASD                                                                | 2024           | Digital Multimedia Communications         | Medical QA, Disease Diagnosis | Audio, Text                    | Fine-tune (supervised FT)               |
+| Large Language Models Are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales | 2024           | AAAI                                      | Disease diagnosis              | Text, Image                    | Fine-tune (supervised FT)               |
+| DRG-LLaMA: Tuning LLaMA Model to Predict Diagnosis-related Group for Hospitalized Patients             | 2024           | NPJ Digital Medicine                      | Differential diagnosis         | Text                            | Fine-tune (parameter efficient FT)     |
+| CancerLLM: A Large Language Model in Cancer Domain                                                    | 2024           | arXiv                                     | Disease diagnosis              | Text                            | Fine-tune (parameter efficient FT)     |
 
 
 
