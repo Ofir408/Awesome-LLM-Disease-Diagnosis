@@ -4,7 +4,7 @@
 ## 1. Introduction
 This repository contains code for the paper "[Large language models for disease diagnosis: A scoping review](https://www.nature.com/articles/s44387-025-00011-z)" (NPJ Artificial Intelligence 2025).
 
-<img src="Fig_1_scope.jpg" alt="Figure: Overview of the investigated scope" width="400px" />
+<img src="Fig_1_scope.jpg" alt="Figure: Overview of the investigated scope" width="700px" />
 *Figure 1: Overview of the investigated scope. It illustrated disease types and the associated clinical specialties, clinical
 data types, modalities of the utilized data, the applied LLM techniques, and evaluation methods. We only presented
 part of the clinical specialties, some representative diseases, and partial LLM techniques.*
