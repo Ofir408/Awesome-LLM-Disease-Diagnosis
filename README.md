@@ -1,7 +1,7 @@
 # Awesome-LLM-Disease-Diagnosis
 
 
-## 1. Introduction
+# Introduction
 This repository contains code for the paper "[Large language models for disease diagnosis: A scoping review](https://www.nature.com/articles/s44387-025-00011-z)" (NPJ Artificial Intelligence 2025).
 
 
@@ -207,4 +207,28 @@ part of the clinical specialties, some representative diseases, and partial LLM 
 | Large Language Multimodal Models for 5-Year Chronic Disease Cohort Prediction Using EHR Data              | 2024           | arXiv   | Risk Prediction                         | Text, Tabular              | Pre-training                           |
 
 
+
+
+
+
+# Citation
+
+Please kindly cite the paper if you use the code or any resources in this repo:
+
+Zhou, Shuang, et al. "Large language models for disease diagnosis: A scoping review." npj Artificial Intelligence 1.1 (2025): 1-17.
+
+or
+
+```bib
+@article{zhou2025LLM_Dx,
+  title={Large language models for disease diagnosis: A scoping review},
+  author={Zhou, Shuang and Xu, Zidu and Zhang, Mian and Xu, Chunpu and Guo, Yawen and Zhan, Zaifu and Fang, Yi and Ding, Sirui and Wang, Jiashuo and Xu, Kaishuai and others},
+  journal={npj Artificial Intelligence},
+  volume={1},
+  number={1},
+  pages={1--17},
+  year={2025},
+  publisher={Nature Publishing Group}
+}
+```
 
