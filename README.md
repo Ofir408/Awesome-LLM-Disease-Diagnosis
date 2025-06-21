@@ -32,6 +32,8 @@
 | Biomistral: A collection of open-source pretrained large language models for medical domains | 2024           | arXiv   | Text-based Med QA | Text                | Pre-training, Fine-tune (supervised FT) |
 
 
+
+
 ## Risk prediction
 
 | Title                                                                                                      | Published Year | Journal | Task                                      | Input Data Modality       | LLM Technique Type                     |
