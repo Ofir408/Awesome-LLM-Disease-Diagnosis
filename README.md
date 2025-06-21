@@ -3,7 +3,9 @@
 
 
 
-# Research Summary
+# Pre-training
+
+## Conversational diagnosis
 
 | Title                                                                                      | Published Year | Journal | Task             | Input Data Modality | LLM Technique Type                   |
 |--------------------------------------------------------------------------------------------|----------------|---------|------------------|---------------------|--------------------------------------|
