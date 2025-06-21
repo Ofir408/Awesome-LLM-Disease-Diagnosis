@@ -54,6 +54,8 @@
 
 
 
+
+
 # Fine-tuning
 
 
@@ -108,6 +110,31 @@
 | Large Language Models Are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales | 2024           | AAAI                                      | Disease diagnosis              | Text, Image                    | Fine-tune (supervised FT)               |
 | DRG-LLaMA: Tuning LLaMA Model to Predict Diagnosis-related Group for Hospitalized Patients             | 2024           | NPJ Digital Medicine                      | Differential diagnosis         | Text                            | Fine-tune (parameter efficient FT)     |
 | CancerLLM: A Large Language Model in Cancer Domain                                                    | 2024           | arXiv                                     | Disease diagnosis              | Text                            | Fine-tune (parameter efficient FT)     |
+
+
+
+
+## Conversational diagnosis
+
+| Title                                                                                                   | Published Year | Journal                                                     | Task                | Input Data Modality | LLM Technique Type                                   |
+|---------------------------------------------------------------------------------------------------------|----------------|-------------------------------------------------------------|---------------------|---------------------|----------------------------------------------------|
+| Clinical camel: An open expert-level medical language model with dialogue-based knowledge encoding      | 2023           | arXiv                                                       | Text-based Med QA   | Text                | Fine-tune (supervised FT)                          |
+| Qibo: A Large Language Model for Traditional Chinese Medicine                                           | 2024           | arXiv                                                       | Text-based Med QA   | Text                | Fine-tune (supervised FT)                          |
+| PediatricsGPT: Large Language Models as Chinese Medical Assistants for Pediatric Applications           | 2024           | arXiv                                                       | Text-based Med QA   | Text                | Fine-tune (supervised FT), Fine-tune (RLHF)        |
+| WundtGPT: Shaping Large Language Models To Be An Empathetic, Proactive Psychologist                     | 2024           | arXiv                                                       | Text-based Med QA   | Text                | Fine-tune (supervised FT), Fine-tune (RLHF)        |
+| Huatuogpt, towards taming language model to be a doctor                                                 | 2023           | Findings of the Association for Computational Linguistics: EMNLP 2023 | Text-based Med QA   | Text                | Fine-tune (supervised FT), Fine-tune (RLHF)        |
+| MedKP: Medical Dialogue with Knowledge Enhancement and Clinical Pathway Encoding                        | 2024           | arXiv                                                       | Text-based Med QA   | Text                | Fine-tune (supervised FT)                          |
+| BP4ER: Bootstrap Prompting for Explicit Reasoning in Medical Dialogue Generation                        | 2024           | arXiv                                                       | Text-based Med QA   | Text                | Fine-tune (supervised FT)                          |
+| A Generalist Learner for Multifaceted Medical Image Interpretation                                      | 2024           | arXiv                                                       | Multi-modal Med QA  | Image, Text         | Fine-tune (supervised FT)                          |
+| PathGen-1.6 M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration      | 2024           | arXiv                                                       | VQA                 | Image, Text         | Fine-tune (supervised FT)                          |
+| Assessing and Optimizing Large Language Models on Spondyloarthritis Multi-Choice Question Answering     | 2024           | JMIR Res Protoc                                             | Med QA              | Text                | Fine-tune (supervised FT)                          |
+| Xraygpt: Chest radiographs summarization using medical vision-language models                           | 2023           | arXiv                                                       | Med VQA             | Image, Text         | Fine-tune (supervised FT)                          |
+| Benchmarking large language models on cmexam-a comprehensive chinese medical exam dataset               | 2023           | NIPS                                                        | Med QA              | Text                | Fine-tune (supervised FT)                          |
+| Radonc-gpt: A large language model for radiation oncology                                               | 2023           | arXiv                                                       | Med QA              | Text                | Fine-tune (supervised FT)                          |
+| MedAide: Leveraging Large Language Models for On-Premise Medical Assistance on Edge Devices             | 2024           | arXiv                                                       | Text-based Med QA   | Text                | Fine-tune (supervised FT), Fine-tune (RLHF), Fine-tune (parameter efficient FT) |
+| CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis                                    | 2024           | arXiv                                                       | Text-based Med QA   | Text                | Fine-tune (supervised FT)                          |
+
+
 
 
 
