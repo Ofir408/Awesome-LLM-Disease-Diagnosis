@@ -12,7 +12,7 @@ This repository contains resources for the review paper "[Large language models 
 
 ---
 
-#### ![📊](https://via.placeholder.com/15) **Figure 1: Overview of the Investigated Scope**
+#### **Figure 1: Overview of the Investigated Scope**
 
 <img src="Fig_1_scope.jpg" alt="Figure: Overview of the investigated scope" width="700px" />
 
@@ -20,7 +20,7 @@ This repository contains resources for the review paper "[Large language models 
 
 ---
 
-#### ![📁](https://via.placeholder.com/15) **Figure 2: Metadata of Information**
+#### **Figure 2: Metadata of Information**
 
 <img src="Fig_2_meta.png" alt="Figure: Future meta" width="700px" />
 
@@ -28,7 +28,7 @@ This repository contains resources for the review paper "[Large language models 
 
 ---
 
-#### ![📈](https://via.placeholder.com/15) **Figure 3: Evaluation Approaches**
+#### **Figure 3: Evaluation Approaches**
 
 <img src="Fig_3_eval.jpg" alt="Figure: Evaluation" width="700px" />
 
@@ -36,7 +36,7 @@ This repository contains resources for the review paper "[Large language models 
 
 ---
 
-#### ![🚀](https://via.placeholder.com/15) **Figure 4: Limitations and Future Directions**
+#### **Figure 4: Limitations and Future Directions**
 
 <img src="Fig_future_direction.jpg" alt="Figure: Future direction" width="700px" />
 
