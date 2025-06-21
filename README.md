@@ -4,7 +4,8 @@
 ## 1. Introduction
 This repository contains code for the paper "[Large language models for disease diagnosis: A scoping review](https://www.nature.com/articles/s44387-025-00011-z)" (NPJ Artificial Intelligence 2025).
 
-![Figure: Overview of the investigated scope](Fig_1_scope.pdf)
+
+[![Figure: Overview of the investigated scope](Fig_1_scope_thumbnail.png)](Fig_1_scope.pdf)
 
 
 
