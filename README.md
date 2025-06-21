@@ -6,8 +6,25 @@ This repository contains code for the paper "[Large language models for disease 
 
 
 ![Figure: Overview of the investigated scope](Fig_1_scope.jpg)
+*Figure 1: Overview of the investigated scope. It illustrated disease types and the associated clinical specialties, clinical
+data types, modalities of the utilized data, the applied LLM techniques, and evaluation methods. We only presented
+part of the clinical specialties, some representative diseases, and partial LLM techniques.*
+
+
+
+![Figure: Future meta](Fig_2_meta.png)
+*Figure 2: Metadata of information from LLM-based diagnostic studies in the scoping review.*
+
+
 
 ![Figure: Future direction](Fig_future_direction.jpg)
+*Figure 3: Summary of the limitations and future directions for LLM-based disease diagnosis.*
+
+
+
+
+
+
 
 
 # RAG
