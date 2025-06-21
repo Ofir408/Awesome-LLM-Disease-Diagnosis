@@ -6,20 +6,44 @@ This repository contains resources for the review paper "[Large language models 
 
 
 
+---
+
+### Figures
+
+---
+
+#### ![📊](https://via.placeholder.com/15) **Figure 1: Overview of the Investigated Scope**
+
 <img src="Fig_1_scope.jpg" alt="Figure: Overview of the investigated scope" width="700px" />
-Figure 1: Overview of the investigated scope. It illustrated disease types and the associated clinical specialties, clinical
-data types, modalities of the utilized data, the applied LLM techniques, and evaluation methods. We only presented
-part of the clinical specialties, some representative diseases, and partial LLM techniques.
 
+*It illustrates disease types, the associated clinical specialties, clinical data types, modalities of the utilized data, the applied LLM techniques, and evaluation methods. Only part of the clinical specialties, some representative diseases, and partial LLM techniques are presented.*
 
+---
+
+#### ![📁](https://via.placeholder.com/15) **Figure 2: Metadata of Information**
 
 <img src="Fig_2_meta.png" alt="Figure: Future meta" width="700px" />
-Figure 2: Metadata of information from LLM-based diagnostic studies in the scoping review.
 
+*Metadata of information extracted from LLM-based diagnostic studies in the scoping review.*
 
+---
+
+#### ![📈](https://via.placeholder.com/15) **Figure 3: Evaluation Approaches**
+
+<img src="Fig_3_eval.jpg" alt="Figure: Evaluation" width="700px" />
+
+*A summary of the evaluation approaches used for diagnostic tasks.*
+
+---
+
+#### ![🚀](https://via.placeholder.com/15) **Figure 4: Limitations and Future Directions**
 
 <img src="Fig_future_direction.jpg" alt="Figure: Future direction" width="700px" />
-Figure 3: Summary of the limitations and future directions for LLM-based disease diagnosis.
+
+*A summary of the limitations and future directions for LLM-based disease diagnosis.*
+
+---
+
 
 
 
