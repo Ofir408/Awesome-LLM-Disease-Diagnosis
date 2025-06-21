@@ -1,7 +1,7 @@
 # Awesome-LLM-Disease-Diagnosis
 
 
-# Introduction
+# Introduction 
 This repository contains resources for the review paper "[Large language models for disease diagnosis: A scoping review](https://www.nature.com/articles/s44387-025-00011-z)" (NPJ Artificial Intelligence 2025).
 
 
