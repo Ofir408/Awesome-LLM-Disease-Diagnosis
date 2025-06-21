@@ -6,6 +6,9 @@
 
 
 
+
+
+
 # RAG
 
 
@@ -33,6 +36,7 @@
 
 
 
+
 ## Conversational diagnosis
 
 | Title                                                                                                               | Published Year | Journal             | Task                 | Input Data Modality | LLM Technique Type |
@@ -47,9 +51,17 @@
 
 
 
+
+
+
 # Fine-tuning
 
+
+
+
 ## Disease diagnosis
+
+
 
 | Title                                                                                                       | Published Year | Journal                                   | Task                            | Input Data Modality            | LLM Technique Type                       |
 |-------------------------------------------------------------------------------------------------------------|----------------|-------------------------------------------|---------------------------------|---------------------------------|------------------------------------------|
