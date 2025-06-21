@@ -213,7 +213,7 @@ Figure 3: Summary of the limitations and future directions for LLM-based disease
 
 # Citation
 
-Please kindly cite the paper if you use the code or any resources in this repo:
+Please kindly cite the paper if it benefits your research:
 
 Zhou, Shuang, et al. "Large language models for disease diagnosis: A scoping review." npj Artificial Intelligence 1.1 (2025): 1-17.
 
