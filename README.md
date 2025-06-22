@@ -14,9 +14,16 @@ This repository contains resources for the review paper "[Large language models 
 
 #### **Figure 1: Overview of the Investigated Scope**
 
-<img src="Fig_1_scope.jpg" alt="Figure: Overview of the investigated scope" width="700px" />
+<img src="Fig_1_scope.jpg" alt="Figure: Overview of the Dual-Inf framework" width="700px" />
 
-*It illustrates disease types, the associated clinical specialties, clinical data types, modalities of the utilized data, the applied LLM techniques, and evaluation methods. Only part of the clinical specialties, some representative diseases, and partial LLM techniques are presented.*
+*An overview of the Dual-Inference Large Language Model framework (Dual-Inf) for interpretable
+DDx. Dual-Inf consists of four components: (1) a forward-inference module, which is an LLM to generate
+initial diagnoses from patient symptoms, (2) a backward-inference module, which is an LLM for conducting
+inverse inference via recalling all the representative symptoms associated with the initial diagnoses, i.e., from
+diagnoses to symptoms, (3) an examination module, which is another LLM to receive patients’ notes and the
+output from the two modules for prediction assessment (e.g., completeness examination) and decision making
+(e.g., filtering out low-confidence diagnoses), and (4) an iterative self-reflection mechanism, which iteratively
+takes the low-confidence diagnoses as feedback for the forward-inference module to “think twice”.*
 
 ---
 
